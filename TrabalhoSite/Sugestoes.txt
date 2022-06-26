@@ -1,0 +1,16 @@
+Experimentar outros frameworks CSS, sem ser o Bootstrap:
+
+1- Tailwind CSS - https://tailwindcss.com/
+2- Semantic UI - https://semantic-ui.com/
+3- Pure - https://purecss.io/
+4- Miligram - https://milligram.io/
+5- UIKit - https://getuikit.com/
+6- Tacit - https://github.com/yegor256/tacit
+7- HTML5 Boilerplate - https://h5bp.net/
+8- Vuetify - https://vuetifyjs.com/en/
+9- Onsen UI - https://onsen.io/
+10- Groundwork - https://groundworkcss.github.io/
+11- 960 Grid System - https://960.gs/
+12- Materialize CSS - https://materializecss.com/
+
+Fonte: https://rockcontent.com/br/talent-blog/frameworks-css/
